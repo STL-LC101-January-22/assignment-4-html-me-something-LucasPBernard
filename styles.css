@@ -1,1 +1,12 @@
 /* Write your CSS here! */
+p {
+    color:green;
+}
+header {
+    color:purple;
+    font-size: 40px;
+}
+
+html {
+    color-scheme: dark !important;
+}
