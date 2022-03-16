@@ -1,1 +1,50 @@
 /* Write your CSS here! */
+p {
+    padding-bottom: 20px;
+}
+
+header {
+    align-content: center;
+    color:purple;
+    font-size: 70px;
+    padding-top: 5px;
+    padding-right: 3px;
+    padding-bottom: 1px;
+    padding-left: 3px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 8px;
+    margin-left: 8px;
+}
+
+html {
+    color-scheme: dark !important;
+    font-family: dudu;
+}
+
+ img {
+    width:100%;
+    max-width:500px;
+    
+  }
+
+p.footer {
+    color:indigo;
+}
+
+body {
+    margin: 8px;
+    display:block;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+.sections {
+    color:aqua
+}
