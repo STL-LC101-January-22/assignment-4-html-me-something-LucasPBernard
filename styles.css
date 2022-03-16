@@ -1,6 +1,6 @@
 /* Write your CSS here! */
 p {
-    padding: 1px;
+    padding-bottom: 20px;
 }
 
 header {
@@ -29,12 +29,12 @@ html {
   }
 
 p.footer {
-    color:indigo
+    color:indigo;
 }
 
 body {
     margin: 8px;
-    display:block
+    display:block;
 }
 
 #mainHeading {
@@ -45,3 +45,6 @@ body {
     color: green;
 }
 
+.sections {
+    color:aqua
+}
