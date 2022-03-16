@@ -1,7 +1,7 @@
 /* Write your CSS here! */
-/* p {
-    color:green;
-} */
+p {
+    padding: 1px;
+}
 
 header {
     align-content: center;
@@ -43,6 +43,5 @@ body {
 
 .funParagraph {
     color: green;
-    padding: 1px;
 }
 
